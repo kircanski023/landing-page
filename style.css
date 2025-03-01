@@ -96,6 +96,32 @@
     gap: 8px;
 }
 
+.main-section2 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #e5e7eb;
+    padding: 120px;
+}
+
+.review {
+    width: 760px;
+    font-size: 36px;
+    font-weight: 300;
+    font-style: italic;
+    color: #1f2937;
+}
+
+.signature {
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: 0;
+    font-size: 24px;
+    font-weight: 900;
+    text-align: right;
+}
+
 a {
     text-decoration: none;
     color: #faf9f8;
